@@ -27,5 +27,5 @@ It only contains the Privacy Policy document required for compliance.
 
 ## 🌍 Live Privacy Policy URL
 
-The Privacy Policy is publicly available at:
+The Privacy Policy is publicly available at: https://jack-san-145.github.io/yus-privacy-policy/
 
